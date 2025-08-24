@@ -3,7 +3,7 @@ Sales Forecasting Project Report
 Subtask 1: Prepare Time Series Data
 The dataset was first prepared for time series analysis.
 
-The order date column was converted into datetime format and used to extract useful features like year, month, and day.
+The order date column was converted into datetime format and used to extract useful features like year, month, and day
 
 Sales values were aggregated by daily/weekly/monthly intervals to ensure consistency.
 
